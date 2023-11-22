@@ -6,4 +6,5 @@ int main()
 {
  cout<< "nava"<<endl;
  cout<< "2235"<<endl;
+ cout<< "section C "<<endl;
 }
